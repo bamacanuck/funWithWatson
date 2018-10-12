@@ -1,0 +1,1 @@
+need to add pertinent auth credentials to some master list for all (relatively?) active-effort repos
